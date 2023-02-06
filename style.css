@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+}
+
+
+body > header {
+    padding: 1.2rem;
+    background-color: dodgerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.header-links {
+    list-style: none;
+    color:white;
+}
+
+.header-links > li > a {
+    color: white; 
+} 
+
+h1 {
+    margin: 0;
+}
+
+.placeholder-image {
+    width: 15%;
+}
+
+
+.main-article-section {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+div {
+    text-align: right;
+}
+
+.btn-comments-submit {
+    text-align: right;
+}
+
+.placeholder-avatar {
+    width: 8%;
+}
+
+footer {
+    background: dodgerblue;
+    text-align: center;
+    color:white;
+}
+
+footer > p {
+    margin: 0; 
+    padding-top: 0.5rem; 
+    padding-bottom: 0.5rem; 
+}
